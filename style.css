@@ -1,0 +1,56 @@
+.main_form 
+{
+font-size:1.3em;
+}
+.main_form h2
+{
+font-weight:bold;
+font-size:2em;
+
+color:rgb(150,150,0);
+}
+.main_form fieldset
+{
+background-color:rgb(255,255,255);
+padding:30px;
+border:2px rgb(100,100,100) solid;
+border-radius:10px;
+}
+.main_form fieldset h1
+{
+font-weight:bold;
+font-size:2.4em;
+background-color:rgb(250,250,250);
+margin:8px;
+}
+.main_form .success_message 
+{
+font-size:1.1em;
+font-weight:bold;
+color:green;
+margin:5px;
+}
+.main_form .info_message
+{
+font-size:1.1em; 
+font-weight:bold;
+color:blue;
+margin:5px;
+}
+.main_form .fail_message
+{
+font-size:1.1em;
+font-weight:bold;
+color:red;
+margin:5px;
+}
+.main_form input[type=submit] 
+{
+color:rgb(255,255,255);
+font-weight:bold;
+border-radius:10px;
+font-size:1.3em;
+background-color:rgb(50,100,50);
+padding:10px;
+margin:10px;
+}
