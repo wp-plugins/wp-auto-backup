@@ -65,9 +65,9 @@ Answer to foo bar dilemma.
 the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
 directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
 (or jpg, jpeg, gif).
-Inline_Preview_Image.png
+/assets/Inline_Preview_Image.png
 2. This is the second screen shot
-thumbnail.png
+/assets/thumbnail.png
 == Changelog ==
 
 = 1.0 =
