@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: KHABER Ahmed
 Donate link: http://sl3-unlocking.com/plugins.php#plugin_donate
 Tags: comments, spam
 Requires at least: 3.1
