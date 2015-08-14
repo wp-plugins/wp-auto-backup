@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: KHABER Ahmed
+Contributors: Ahmed KHABER 
 Donate link: http://sl3-unlocking.com/plugins.php#plugin_donate
 Tags: comments, spam
 Requires at least: 3.1
